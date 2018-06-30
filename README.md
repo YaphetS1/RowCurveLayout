@@ -15,8 +15,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Results
 
-[![ScreenShot](https://pasteboard.co/HscJs34.png)]
-[![ScreenShot](https://pasteboard.co/HscJCIc.png)]
+[![ScreenShot](https://i.imgur.com/E14xP4I.png)]
+[![ScreenShot](https://i.imgur.com/Vc7Hyab.jpg)]
 
 Its simply creator custom UIView with BezierPath. It keep you to write easy code for grid of photos without difficulties. Obtaining images based on the URL or your Photo Model, as well as track the click events on a specific layer of this mask and understand where the user clicked. In callback you can get your Model or URL.
 
@@ -37,7 +37,7 @@ pod 'BezierRowView'
 </tr>
 <tr>
 <td>Define UIView ...</td>
-<th rowspan="9"><img src="https://pasteboard.co/HscJahK.png"></th>
+<th rowspan="9"><img src="https://i.imgur.com/7idwVyW.jpg"></th>
 </tr>
 <tr>
 <td><div class="highlight highlight-source-swift"><pre>
