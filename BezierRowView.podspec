@@ -22,14 +22,14 @@ Its simply creator custom UIView with BezierPath. It keep you to write easy code
                        DESC
 
   s.homepage         = 'https://github.com/YaphetS1/BezierRowView'
-  s.screenshots      = 'https://pasteboard.co/HscJahK.png', 'https://pasteboard.co/HscJs34.png', 'https://pasteboard.co/HscJCIc.png'
+#  s.screenshots      = 'https://pasteboard.co/HscJahK.png', 'https://pasteboard.co/HscJs34.png', 'https://pasteboard.co/HscJCIc.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '436910463q@gmail.com' => 'Dmitry Marinin' }
   s.source           = { :git => 'https://github.com/YaphetS1/BezierRowView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-#  s.swift_version = '3.2'
+  s.swift_version = '3.2'
 #  s.requires_arc = true
 
   s.source_files = 'BezierRowView/Classes/**/*'
