@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BezierRowView_Example' do
+  pod 'BezierRowView', :path => '../'
+
+  target 'BezierRowView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

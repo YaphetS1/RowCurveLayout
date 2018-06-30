@@ -1,0 +1,25 @@
+PODS:
+  - BezierRowView (0.1.0):
+    - SDWebImage (~> 4.3.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+
+DEPENDENCIES:
+  - BezierRowView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  BezierRowView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BezierRowView: 904187024897e275d983a0eccd114cd8dc9c2b18
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+
+PODFILE CHECKSUM: d5e9d3838a7c2d7b06af2e517764c9766c2cd05a
+
+COCOAPODS: 1.5.3
