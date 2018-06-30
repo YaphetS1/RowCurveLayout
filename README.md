@@ -15,8 +15,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Results
 
-[![ScreenShot](https://i.imgur.com/E14xP4I.png)]
-[![ScreenShot](https://i.imgur.com/Vc7Hyab.jpg)]
+![ScreenShot](https://i.imgur.com/E14xP4I.png)
+![ScreenShot](https://i.imgur.com/Vc7Hyab.jpg)
 
 Its simply creator custom UIView with BezierPath. It keep you to write easy code for grid of photos without difficulties. Obtaining images based on the URL or your Photo Model, as well as track the click events on a specific layer of this mask and understand where the user clicked. In callback you can get your Model or URL.
 
@@ -48,7 +48,8 @@ pod 'BezierRowView'
 </tr>
 <tr>
 <td width="30%"><div class="highlight highlight-source-swift"><pre>
-bez.setupBind(p: typeOfMaskThreeShape.r308, m: ["https://www.incimages.com/uploaded_files/image/970x450/creative-pano_37907.jpg",
+bez.setupBind(p: typeOfMaskThreeShape.r308,
+m: ["https://www.incimages.com/uploaded_files/image/970x450/creative-pano_37907.jpg",
 "https://res.cloudinary.com/simpleview/image/upload/c_fill,f_auto,h_492,q_50,w_844/v1/clients/athens/32581440564_fb72de5891_z_21711e2d-306e-4aee-8f1e-c3d7476b0aa4.jpg",
 "https://i1.wp.com/www.mindcharity.co.uk/wp-content/uploads/2017/03/creative-minds.jpg?ssl=1"]) { item in
 print(item)
