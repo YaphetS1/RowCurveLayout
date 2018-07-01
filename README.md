@@ -1,6 +1,6 @@
 # BezierRowView
 
-[![CI Status](https://img.shields.io/travis/436910463q@gmail.com/BezierRowView.svg?style=flat)](https://travis-ci.org/436910463q@gmail.com/BezierRowView)
+[![CI Status](https://img.shields.io/travis/YaphetS1/BezierRowView.svg?style=flat)](https://travis-ci.org/YaphetS1/BezierRowView)
 [![Version](https://img.shields.io/cocoapods/v/BezierRowView.svg?style=flat)](https://cocoapods.org/pods/BezierRowView)
 [![License](https://img.shields.io/cocoapods/l/BezierRowView.svg?style=flat)](https://cocoapods.org/pods/BezierRowView)
 [![Platform](https://img.shields.io/cocoapods/p/BezierRowView.svg?style=flat)](https://cocoapods.org/pods/BezierRowView)
