@@ -1,4 +1,4 @@
-# BezierRowView
+# RowCurveLayout
 
 [![CI Status](https://img.shields.io/travis/YaphetS1/BezierRowView.svg?style=flat)](https://travis-ci.org/YaphetS1/BezierRowView)
 [![Version](https://img.shields.io/cocoapods/v/BezierRowView.svg?style=flat)](https://cocoapods.org/pods/BezierRowView)
