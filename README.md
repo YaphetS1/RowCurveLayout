@@ -1,4 +1,4 @@
-# RowCurveLayout
+# RowCurveLayout [RENAMED] from BezierRowView
 
 [![CI Status](https://img.shields.io/travis/YaphetS1/BezierRowView.svg?style=flat)](https://travis-ci.org/YaphetS1/BezierRowView)
 [![Version](https://img.shields.io/cocoapods/v/BezierRowView.svg?style=flat)](https://cocoapods.org/pods/BezierRowView)
@@ -22,7 +22,7 @@ Its simply creator custom UIView with BezierPath. It keep you to write easy code
 
 ## Installation
 
-BezierRowView is available through [CocoaPods](https://cocoapods.org). To install
+RowCurveLayout is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
@@ -63,4 +63,4 @@ bez.setNeedsDisplay()
 
 ## License
 
-BezierRowView is available under the MIT license. See the LICENSE file for more info.
+RowCurveLayout is available under the MIT license. See the LICENSE file for more info.
